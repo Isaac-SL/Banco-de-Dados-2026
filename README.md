@@ -12,5 +12,14 @@ Nesse Projeto temos alguns objetivos:
 
   A partir desse contexto criamos nosso primeiro modelo entidade relacionamento (MER):
   
+  Aqui temos as nossas entidades
 <img width="2641" height="1146" alt="Modelo MER drawio" src="https://github.com/user-attachments/assets/6c4226c2-aec8-496c-8a6c-625fb51a3214" />
+
+
+  Aqui temos os relacionamentos
+<img width="1114" height="591" alt="image" src="https://github.com/user-attachments/assets/bc459da9-e661-4fd5-b677-6add5752ec38" />
+
+  
+  
+  
 
