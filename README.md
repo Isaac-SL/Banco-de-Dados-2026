@@ -6,7 +6,6 @@ Nesse Projeto temos alguns objetivos:
 - Elaborar um DER claro na notação escolhida (notação Chen ou Crow’s Foot).; 
 - Mapear ER → relacional (tabelas, PK/FK, associativas, especializações, entidades fracas);
 - Identificar Dependências Funcionais (DFs) e normalizar (1FN, 2FN, 3FN), reconhecendo e prevenindo anomalias;
-- Desenvolver habilidades de projeto em equipe e resolução de problemas reais.
 
   Escolhemos a Questão de Pesquisa 6: De que forma um sistema de gestão de vagas de emprego/qualificação local pode cruzar perfis de candidatos, cursos e empresas para aumentar inserção laboral?
 
@@ -20,6 +19,11 @@ Nesse Projeto temos alguns objetivos:
 <img width="1114" height="591" alt="image" src="https://github.com/user-attachments/assets/bc459da9-e661-4fd5-b677-6add5752ec38" />
 
   
-  
+  A partir dessas informações do nosso MER montamos o nosso DER
+ <img width="1600" height="801" alt="image" src="https://github.com/user-attachments/assets/ca45e1fc-b083-4b77-b6b2-47b4aa5a4a02" />
+
+
+  e nesse DER já implementamos os conceitos de normalização e dependência funcional.
+  Finalizando assim o projeto.
   
 
